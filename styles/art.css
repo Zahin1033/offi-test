@@ -1,0 +1,6 @@
+form .col label{
+    color: rgba(232, 248, 12, 0.705);
+}
+form .basic-info label{
+    display: block;
+}
